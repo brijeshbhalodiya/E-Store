@@ -1,0 +1,60 @@
+.category_error{
+    		margin: 100px;
+    	}
+    	
+    	.product-form{
+    		margin: 50px;
+    		align-content: center;
+    		padding-top: 50px; 
+    	}
+
+    	.error{
+    	color: red;
+    	font-size: 15px;
+    	text-align: center;
+    	}
+    	
+    	.category-form{
+    		margin: 50px;
+    		align-content: center;
+    		padding-top: 50px;
+    	}
+
+		.product-overview{
+			margin-top: 20px;
+			padding-top: 50px;
+		}
+		
+		.admin-edit{
+			display: inline-block;
+		}
+		
+		.admin-delete{
+			display: inline-block;
+		}
+    	
+    	.btn-delete{
+    		background-color: white;
+    		border: 1px solid black;
+    		
+    	}
+    	.btn-edit{
+    		background-color: white;
+    		border: 1px solid black;
+    	}
+    	
+    	.btn-delete:hover{
+    		cursor: pointer;
+    		background-color: black;
+    		color: white;
+    	}
+    	
+    	.btn-edit:hover{
+    		cursor: pointer;
+    		background-color: black;
+    		color: white;
+    	}
+    	
+    	.btn{
+    	cursor: pointer;
+    	}
